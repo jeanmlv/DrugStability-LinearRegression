@@ -13,3 +13,8 @@
   - `ggplot2` – data visualization
   - `ggpmisc` – annotate regression equations and R²
   - `readr`, `dplyr` – data handling and preprocessing
+ 
+  - ## 📸 Example Output
+
+![Stability Plot](![image](https://github.com/user-attachments/assets/7975fdc1-d495-4863-93ee-5759fabb4117)
+)
