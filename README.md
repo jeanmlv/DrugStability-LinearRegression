@@ -1,2 +1,15 @@
-Simulação de um estudo de estabilidade acelerada para determinar o prazo de validade (shelf life) de um fármaco, utilizando regressão linear em R. O projeto modela a degradação da concentração do princípio ativo ao longo do tempo, calculando o ponto em que a concentração atinge 90% do valor inicial (critério comum para definição de validade).
+# Drug Stability Analysis — Linear Regression
 
+> Linear regression applied to assess degradation trends in a pharmaceutical stability study over 12 months.
+
+## 🎯 Objective
+
+- This project aims to evaluate the degradation behavior of a drug under long-term stability conditions using linear regression models. The analysis supports decision-making regarding shelf life and product quality over time.
+
+## 🛠️ Technologies
+
+- **Language**: R
+- **Packages**:
+  - `ggplot2` – data visualization
+  - `ggpmisc` – annotate regression equations and R²
+  - `readr`, `dplyr` – data handling and preprocessing
