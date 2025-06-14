@@ -16,4 +16,4 @@
  
 ## 📸 Example Output
 
-DrugStability-LinearRegression.png
+![Drug Stability Linear Regression](DrugStability-LinearRegression.png)
