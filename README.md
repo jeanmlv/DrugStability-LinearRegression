@@ -1,4 +1,4 @@
-# Drug Stability Analysis — Linear Regression
+# Drug Stability — Linear Regression
 
 > Linear regression applied to assess degradation trends in a pharmaceutical stability study over 12 months.
 
